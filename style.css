@@ -9,7 +9,7 @@
     width: 100%;
     background-size: cover;
     background-position: center;
-    background-color:#676668;
+    background-color:#39373D;
 }
 
 .caixa-principal img {
@@ -22,30 +22,26 @@
 }
 
 .Texto-um h2 {
-    color:#add8e6;
+    color:white;
     margin-left: 25px;
     margin-top: -220px;
-    font-size: 23px;
+    font-size: 25px;
 }
 
-.Texto-um button {
-    width: 150px;
-    height: 50px;
-    margin-top: 20px;
+.Texto-um a button {
+    width: 190px;
+    height: 60px;
+    margin-top: 60px;
     border-radius: 10px;
-    font-size: 15px;
-    cursor: pointer;
+    font-size: 17px;
     background-color: black;
+    cursor: pointer;
     color:white;
 }
 
-@keyframes float{
-    0%, 100%{
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-50px);
-    }
+.Texto-um img {
+    width: 500px;
+    height: 600px;
 }
 
 nav {
@@ -240,11 +236,11 @@ footer p {
 
 .social {
     display: flex;
-    gap: 20px;
+    gap: 5px;
 }
 
 .social img {
-    height: 25px;
+    height: 35px;
     border-radius: 50%;
 }
 
