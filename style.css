@@ -206,6 +206,7 @@ section div button:hover {
     color: black;
     font-size: 75px;
     text-align: center;
+    height: 150px;
 }
 
 .card {
