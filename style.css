@@ -63,14 +63,11 @@
     font-size: 25px;
 }
 
-
 .Texto-um img {
     width: 400px;
     height: 500px;
     margin-left: 1450px;
-    border-radius: 45px;
-    border: 2px solid #add8e6;
-
+    border: 2px solid #000000;
 }
 
 .gitt img {
